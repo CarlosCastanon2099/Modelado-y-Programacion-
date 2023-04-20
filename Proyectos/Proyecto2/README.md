@@ -2,9 +2,7 @@
 
 **Equipo: Los Peaky Blinders**
 
-***<p style="text-align: center;">Carlos Emilio Castañón Maldonado   ~ José Camilo García Ponce  </p>***
-
-***<p style="text-align: center;"> Dafne Bonilla Reyes </p>***
+***<p style="text-align: center;">Carlos Emilio Castañón Maldonado   ~ José Camilo García Ponce    ~ Dafne Bonilla Reyes  </p>***
 
 
 ---
